@@ -3,6 +3,7 @@ prefix: Texter
 main: jp\mcbe\fuyutsuki\Texter\Main
 version: 4.1.4
 api: 4.6.0
+src-namespace-prefix: jp\mcbe\fuyutsuki\Texter
 softdepend:
   # aieuo/Mineflow
   - Mineflow # >= 2.0
